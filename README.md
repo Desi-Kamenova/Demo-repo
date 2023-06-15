@@ -1,1 +1,3 @@
-# Demo repository for QA fundamentals qurs may 2023
+# Demo repository 
+
+This is the demo repo for Software Tehnology may 2023 Course Softuni
